@@ -1,0 +1,14 @@
+.container {
+  background: grey;
+  max-width: 80%;
+  margin: auto;
+}
+
+#increment-btn {
+  background-color: brown;
+  color: black;
+}
+
+#save-btn {
+  background-color: aqua;
+}
